@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12149","Realizar Login no Pro APP","","Fri May 09 16:37:14 BRT 2025","passed","Fri May 09 16:37:26 BRT 2025","","Pro APP - Validar Login","",""
+"","9208","Realizar Login no Pro APP","","Fri May 09 16:38:08 BRT 2025","passed","Fri May 09 16:38:17 BRT 2025","","Pro APP - Validar Logout","",""
+"","60017","Realizar cadastro no Pro APP","","Fri May 09 16:36:07 BRT 2025","broken","Fri May 09 16:37:07 BRT 2025","","Pro APP - Validar Cadastro de Profissional PJ","",""
+"","29638","Pesquisar Produto","","Fri May 09 16:37:32 BRT 2025","passed","Fri May 09 16:38:02 BRT 2025","","Pro App - Validar PDP","",""
+"","46163","Realizar cadastro no Pro APP","","Fri May 09 16:34:14 BRT 2025","passed","Fri May 09 16:35:00 BRT 2025","","Pro APP - Validar Cadastro de Cliente Final","",""
+"","53009","Realizar cadastro no Pro APP","","Fri May 09 16:35:07 BRT 2025","passed","Fri May 09 16:36:00 BRT 2025","","Pro APP - Validar Cadastro de Profissional","",""
